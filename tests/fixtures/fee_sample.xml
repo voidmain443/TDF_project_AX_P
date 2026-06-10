@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><root><message><proframeHeader><pfmSvcName>DISFundFeeCmsSO</pfmSvcName></proframeHeader><systemHeader></systemHeader><DISCondFuncListDTO><dbio_total_count_>20500</dbio_total_count_><selectMeta>
+<vGridChgImg1 />
+<vGridBtn1 />
+<tmpV1>교보악사자산운용</tmpV1>
+<tmpV2>교보악사평생든든적격TDF2025증권자투자신탁(채권혼합-재간접형)ClassC</tmpV2>
+<tmpV3>재간접형</tmpV3>
+<tmpV4>20190521</tmpV4>
+<tmpV5>.2</tmpV5>
+<tmpV6>.54</tmpV6>
+<tmpV7>.03</tmpV7>
+<tmpV8>.015</tmpV8>
+<tmpV9>.785</tmpV9>
+<tmpV10>.7126</tmpV10>
+<tmpV11>.03</tmpV11>
+<tmpV12>.81</tmpV12>
+<tmpV13>0</tmpV13>
+<tmpV14>0</tmpV14>
+<tmpV15>K55207CP5447</tmpV15>
+<tmpV16>.4547</tmpV16>
+<tmpV17 />
+<tmpV18 />
+<tmpV19 />
+<tmpV20 />
+<tmpV22 />
+<tmpV23 />
+<tmpV24 />
+<tmpV25 />
+<tmpV26 />
+<tmpV27 />
+<tmpV28 />
+<tmpV29 />
+<tmpV30 />
+<tmpV31 />
+<tmpV32 />
+<tmpV33 />
+<tmpV34 />
+<tmpV35 />
+<tmpV36 />
+<tmpV37 />
+<tmpV38 />
+<tmpV39 />
+<tmpV40 />
+<tmpV41 />
+<tmpV42 />
+<tmpV43 />
+<tmpV44 />
+<tmpV45 />
+<tmpV46 />
+<tmpV47 />
+<tmpV49 />
+<tmpV50 />
+<tmpV51 />
+<tmpV52 />
+<tmpV53 />
+<tmpV54 />
+<tmpV56 />
+<tmpV58 />
+<tmpV60 />
+<tmpV61 />
+<tmpV62 />
+<tmpV63 />
+<tmpV64 />
+<tmpV65 />
+<tmpV66 />
+<tmpV67 />
+<tmpV68 />
+<tmpV69 />
+<tmpV70 />
+<tmpV71 />
+<tmpV73 />
+<tmpV74 />
+<tmpV75 />
+<tmpV76 />
+<tmpV77 />
+<tmpV78 />
+<tmpV79 />
+<tmpV80 />
+<tmpV81 />
+<tmpV82 />
+<tmpV83 />
+<tmpV84 />
+<tmpV85 />
+<tmpV87 />
+<tmpV88 />
+<tmpV89 />
+<tmpV90 />
+<tmpV91 />
+<tmpV92 />
+<tmpV93 />
+<tmpV94 />
+<tmpV95 />
+<tmpV96 />
+<tmpV97 />
+<tmpV98 />
+<tmpV99 />
+<tmpV100 />
+<serviceDesc />
+<messageOccuDesc />
+</selectMeta><selectMeta>
+<vGridChgImg1 />
+<vGridBtn1 />
+<tmpV1>교보악사자산운용</tmpV1>
+<tmpV2>교보악사평생든든적격TDF2025증권자투자신탁(채권혼합-재간접형)ClassC-P(연금)</tmpV2>
+<tmpV3>재간접형</tmpV3>
+<tmpV4>20190521</tmpV4>
+<tmpV5>.2</tmpV5>
+<tmpV6>.39</tmpV6>
+<tmpV7>.03</tmpV7>
+<tmpV8>.015</tmpV8>
+<tmpV9>.635</tmpV9>
+<tmpV10>.7126</tmpV10>
+<tmpV11>.03</tmpV11>
+<tmpV12>.67</tmpV12>
+<tmpV13>0</tmpV13>
+<tmpV14>0</tmpV14>
+<tmpV15>K55207CP5488</tmpV15>
+<tmpV16>.4392</tmpV16>
+<tmpV17 />
+<tmpV18 />
+<tmpV19 />
+<tmpV20 />
+<tmpV22 />
+<tmpV23 />
+<tmpV24 />
+<tmpV25 />
+<tmpV26 />
+<tmpV27 />
+<tmpV28 />
+<tmpV29 />
+<tmpV30 />
+<tmpV31 />
+<tmpV32 />
+<tmpV33 />
+<tmpV34 />
+<tmpV35 />
+<tmpV36 />
+<tmpV37 />
+<tmpV38 />
+<tmpV39 />
+<tmpV40 />
+<tmpV41 />
+<tmpV42 />
+<tmpV43 />
+<tmpV44 />
+<tmpV45 />
+<tmpV46 />
+<tmpV47 />
+<tmpV49 />
+<tmpV50 />
+<tmpV51 />
+<tmpV52 />
+<tmpV53 />
+<tmpV54 />
+<tmpV56 />
+<tmpV58 />
+<tmpV60 />
+<tmpV61 />
+<tmpV62 />
+<tmpV63 />
+<tmpV64 />
+<tmpV65 />
+<tmpV66 />
+<tmpV67 />
+<tmpV68 />
+<tmpV69 />
+<tmpV70 />
+<tmpV71 />
+<tmpV73 />
+<tmpV74 />
+<tmpV75 />
+<tmpV76 />
+<tmpV77 />
+<tmpV78 />
+<tmpV79 />
+<tmpV80 />
+<tmpV81 />
+<tmpV82 />
+<tmpV83 />
+<tmpV84 />
+<tmpV85 />
+<tmpV87 />
+<tmpV88 />
+<tmpV89 />
+<tmpV90 />
+<tmpV91 />
+<tmpV92 />
+<tmpV93 />
+<tmpV94 />
+<tmpV95 />
+<tmpV96 />
+<tmpV97 />
+<tmpV98 />
+<tmpV99 />
+<tmpV100 />
+<serviceDesc />
+<messageOccuDesc />
+</selectMeta><selectMeta>
+<vGridChgImg1 />
+<vGridBtn1 />
+<tmpV1>교보악사자산운용</tmpV1>
+<tmpV2>교보악사평생든든적격TDF2025증권자투자신탁(채권혼합-재간접형)ClassC-Pe(연금)</tmpV2>
+<tmpV3>재간접형</tmpV3>
+<tmpV4>20190521</tmpV4>
+<tmpV5>.2</tmpV5>
+<tmpV6>.19</tmpV6>
+<tmpV7>.03</tmpV7>
+<tmpV8>.015</tmpV8>
+<tmpV9>.435</tmpV9>
+<tmpV10>.7126</tmpV10>
+<tmpV11>.03</tmpV11>
+<tmpV12>.47</tmpV12>
+<tmpV13>0</tmpV13>
+<tmpV14>0</tmpV14>
+<tmpV15>K55207CP5496</tmpV15>
+<tmpV16>.4599</tmpV16>
+<tmpV17 />
+<tmpV18 />
+<tmpV19 />
+<tmpV20 />
+<tmpV22 />
+<tmpV23 />
+<tmpV24 />
+<tmpV25 />
+<tmpV26 />
+<tmpV27 />
+<tmpV28 />
+<tmpV29 />
+<tmpV30 />
+<tmpV31 />
+<tmpV32 />
+<tmpV33 />
+<tmpV34 />
+<tmpV35 />
+<tmpV36 />
+<tmpV37 />
+<tmpV38 />
+<tmpV39 />
+<tmpV40 />
+<tmpV41 />
+<tmpV42 />
+<tmpV43 />
+<tmpV44 />
+<tmpV45 />
+<tmpV46 />
+<tmpV47 />
+<tmpV49 />
+<tmpV50 />
+<tmpV51 />
+<tmpV52 />
+<tmpV53 />
+<tmpV54 />
+<tmpV56 />
+<tmpV58 />
+<tmpV60 />
+<tmpV61 />
+<tmpV62 />
+<tmpV63 />
+<tmpV64 />
+<tmpV65 />
+<tmpV66 />
+<tmpV67 />
+<tmpV68 />
+<tmpV69 />
+<tmpV70 />
+<tmpV71 />
+<tmpV73 />
+<tmpV74 />
+<tmpV75 />
+<tmpV76 />
+<tmpV77 />
+<tmpV78 />
+<tmpV79 />
+<tmpV80 />
+<tmpV81 />
+<tmpV82 />
+<tmpV83 />
+<tmpV84 />
+<tmpV85 />
+<tmpV87 />
+<tmpV88 />
+<tmpV89 />
+<tmpV90 />
+<tmpV91 />
+<tmpV92 />
+<tmpV93 />
+<tmpV94 />
+<tmpV95 />
+<tmpV96 />
+<tmpV97 />
+<tmpV98 />
+<tmpV99 />
+<tmpV100 />
+<serviceDesc />
+<messageOccuDesc />
+</selectMeta><selectMeta>
+<vGridChgImg1 />
+<vGridBtn1 />
+<tmpV1>골든브릿지자산운용</tmpV1>
+<tmpV2>GB100년공모주증권자투자신탁 1[채권혼합]종류A1</tmpV2>
+<tmpV3>혼합채권형</tmpV3>
+<tmpV4>20130523</tmpV4>
+<tmpV5>.4</tmpV5>
+<tmpV6>.5</tmpV6>
+<tmpV7>.025</tmpV7>
+<tmpV8>.015</tmpV8>
+<tmpV9>.94</tmpV9>
+<tmpV10>.5621</tmpV10>
+<tmpV11>.01</tmpV11>
+<tmpV12>.95</tmpV12>
+<tmpV13>.5</tmpV13>
+<tmpV14>0</tmpV14>
+<tmpV15>KR5309AB5642</tmpV15>
+<tmpV16>.0265</tmpV16>
+<tmpV17 />
+<tmpV18 />
+<tmpV19 />
+<tmpV20 />
+<tmpV22 />
+<tmpV23 />
+<tmpV24 />
+<tmpV25 />
+<tmpV26 />
+<tmpV27 />
+<tmpV28 />
+<tmpV29 />
+<tmpV30 />
+<tmpV31 />
+<tmpV32 />
+<tmpV33 />
+<tmpV34 />
+<tmpV35 />
+<tmpV36 />
+<tmpV37 />
+<tmpV38 />
+<tmpV39 />
+<tmpV40 />
+<tmpV41 />
+<tmpV42 />
+<tmpV43 />
+<tmpV44 />
+<tmpV45 />
+<tmpV46 />
+<tmpV47 />
+<tmpV49 />
+<tmpV50 />
+<tmpV51 />
+<tmpV52 />
+<tmpV53 />
+<tmpV54 />
+<tmpV56 />
+<tmpV58 />
+<tmpV60 />
+<tmpV61 />
+<tmpV62 />
+<tmpV63 />
+<tmpV64 />
+<tmpV65 />
+<tmpV66 />
+<tmpV67 />
+<tmpV68 />
+<tmpV69 />
+<tmpV70 />
+<tmpV71 />
+<tmpV73 />
+<tmpV74 />
+<tmpV75 />
+<tmpV76 />
+<tmpV77 />
+<tmpV78 />
+<tmpV79 />
+<tmpV80 />
+<tmpV81 />
+<tmpV82 />
+<tmpV83 />
+<tmpV84 />
+<tmpV85 />
+<tmpV87 />
+<tmpV88 />
+<tmpV89 />
+<tmpV90 />
+<tmpV91 />
+<tmpV92 />
+<tmpV93 />
+<tmpV94 />
+<tmpV95 />
+<tmpV96 />
+<tmpV97 />
+<tmpV98 />
+<tmpV99 />
+<tmpV100 />
+<serviceDesc />
+<messageOccuDesc />
+</selectMeta></DISCondFuncListDTO></message></root>

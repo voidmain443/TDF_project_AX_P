@@ -1,0 +1,16 @@
+data/
+logs/
+captured/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+build/
+dist/
+.git/
+docs/
+tests/
