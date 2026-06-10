@@ -64,7 +64,6 @@ desktop.ini
 # 옛 클라우드 문서(도커·멀티옵션·PuTTY)
 legacy/
 # 학습 파트(별도 관리) — 운영 repo에는 제외
-team_learning/
 
 # Claude Code 로컬 설정(머신별)
 .claude/settings.local.json
